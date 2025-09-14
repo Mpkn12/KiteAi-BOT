@@ -42,7 +42,7 @@ Affordable (from $0.1/GB), global coverage, rotation control, and anti-ban tech.
 
 1. **Clone The Repositories:**
    ```bash
-   git clone https://github.com/vonssy/KiteAi-BOT.git
+   git clone https://github.com/Mpkn12/KiteAi-BOT.git
    ```
    ```bash
    cd KiteAi-BOT
